@@ -1,24 +1,7 @@
-# README
+Postcard (Backend)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails API with endpoints for users, locations, and photos
 
-Things you may want to cover:
+Video Demo: https://www.youtube.com/watch?v=8LaQP2Ko4C8
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Frontend:https://github.com/carlypecora/Frontend-mod3/tree/master
